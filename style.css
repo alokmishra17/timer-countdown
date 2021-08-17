@@ -1,0 +1,23 @@
+body {
+	background-color:rgb(211, 103, 14);
+  }
+  
+  #demo {
+	font-size: 60px;
+	justify-content: center;
+	text-align: center;
+	font-weight: bold;
+	color:green
+  }
+  
+  #container {
+	justify-content: center;
+	text-align: center;
+	visibility: hidden;
+  }
+  .flag{
+	  width:30rem;
+	  height:20rem;
+	  border-bottom-left-radius:20%;
+	  border-top-right-radius: 20%;;
+  }
